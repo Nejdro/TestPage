@@ -1,0 +1,120 @@
+#logo {
+        height: 150px;
+    width: 150px; 
+    }
+#cfc {
+    
+    position:absolute;
+    top:0px;
+    left:1000px;
+    margin-right:10px;
+}
+#witam {
+    font-size: 65px;
+    color: darkblue;
+    
+}
+
+h1 {
+    font-size: 55px;
+    color: darkblue;
+    margin-left: 62%;
+    margin-right: auto;
+    margin-top: 4%;
+}
+body {
+    background-image: url("tlo.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+        font-family: sans-serif;
+        
+}
+
+
+.menu {
+    background-color:seashell;
+ 
+}
+
+.wybor {
+    text-align: center;
+    color: black;
+    border: 1px solid #000000;
+    float: left;
+    min-width: 162px;
+    height: 30px;
+    font-size: 20px;
+    padding: 18px;
+    opacity: 0.8;
+}
+ .wybor:hover {
+        background-color:darkblue;
+        cursor: default;
+    }
+#calosc {
+    width: 1000px;
+    margin-right: auto;
+    margin-left:10px;
+    margin-top:30px;
+}
+#tresc {
+    text-align: center;
+    width: 960px;
+    margin: 20px;
+    letter-spacing: 1px;
+}
+table {
+    font-size: 20px;
+    color: seashell;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
+    
+}
+    h3 {
+        color: white;
+    }
+
+ td {
+    border: 3px solid black;
+    
+}
+
+
+ #farsa{
+     width:550px;
+     
+ }
+#sklad {
+    width: 650px;
+    
+}
+#lm {
+    width: 550px;
+    
+}
+#ehh {
+    width: 550px;
+    
+}
+#prem {
+    width:550px;
+
+}
+#win {
+    width:550px;
+}
+#asi{
+    width:550px;
+}
+#did{
+    width:350px;
+}
+#frank {
+    width: 350px;
+}
+#john {
+    width: 350px;
+}
+
